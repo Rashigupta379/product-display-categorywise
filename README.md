@@ -28,6 +28,6 @@ To use the webpage, simply open the `index.html` file in a web browser. You can 
 
 ## Credits
 
-This project was created by Harsh Kumar.
+This project was created by Rashi Gupta.
 
 
